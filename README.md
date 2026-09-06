@@ -6,8 +6,6 @@ numbers before you go anywhere near `tmsh load`.
 It runs entirely in the browser. Nothing is uploaded, and there are no dependencies —
 useful when the rule you are debugging contains customer hostnames.
 
-**[Try it](https://your-username.github.io/irule-checker/)** ·
-[Download the single-file build](dist/irule-checker.html)
 
 ## What it checks
 
